@@ -1,8 +1,6 @@
-# StoryBooks
+## Stories
 
-> Create public and private stories from your life
-
-This app uses Node.js/Express/MongoDB with Google OAuth for authentication
+Post your public and private stories
 
 ## Usage
 
